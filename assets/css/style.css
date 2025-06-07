@@ -1,0 +1,106 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url(/assets/img/fondo.jpeg);
+  }
+.sidebar {
+  color: rgb(255, 255, 255);
+  height: 100%;
+  padding: 1rem;
+  background-image: url(/assets/img/fono11.jpg);
+  overflow: auto;
+  position: relative
+}
+.sidebar a {
+  color: rgb(243, 238, 238);
+  display: block;
+  margin: 0.5rem 0;
+  text-decoration: none;
+  margin-top: 20px;
+  text-align: center;
+}
+
+/*mobile */
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+  color: rgb(255, 255, 255);
+  padding: 0.5rem 1rem;
+}
+
+@media (min-width: 768px) {
+  .topbar {
+    display: none;
+  }
+}
+
+/* Footer para mobile */
+.footer {
+  background-image: url(/assets/img/fonod.jpg);
+  color: rgb(248, 248, 248);
+  text-align: center;
+  padding: 1rem;
+  margin-top: 300px;
+  
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border: 1px solid #004080;
+  border-radius: 12px;
+  text-align: center;
+  padding: 2rem;
+  box-shadow: 0 2px 8px #004080;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+.logo {
+    height: auto;
+max-width: 50%;
+margin-left: 70px;
+}
+.boton {
+    height: auto;
+max-width: 100%;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0px;
+}
+ .catalogo {
+    display: inline-block;
+    padding: 30px;
+   background-image: url(/assets/img/fonod.jpg);
+  }
+
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 10px;
+}
+
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 10px 20px rgba(255, 255, 255, 0.2);
+}
