@@ -19,7 +19,7 @@
 
 ## 🗂️ Estructura del Proyecto
 
-'''
+```
 RAYITAS_PROYECTO/
 ├── index.html
 ├── about.html
@@ -32,7 +32,7 @@ RAYITAS_PROYECTO/
 │ └── bootstrap/
 │ └── bootstrap.min.css
 └── README.md
-'''
+```
 -----------------------
 
 ## 📦 ¿Qué incluye el proyecto?
