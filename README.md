@@ -1,6 +1,6 @@
 # 🎨 RAYITAS_PROYECTO
 
-- Proyecto de diseño web responsivo orientado a la práctica de maquetación con HTML y CSS, integrando herramientas modernas como **Bootstrap**, **Flexbox**, **Grid** y **Media Queries**. Ideal para reforzar la construcción de sitios adaptables y estructurados profesionalmente.
+Proyecto de diseño web responsivo orientado a la práctica de maquetación con HTML y CSS, integrando herramientas modernas como **Bootstrap**, **Flexbox**, **Grid** y **Media Queries**. Ideal para reforzar la construcción de sitios adaptables y estructurados profesionalmente.
 
 -----------------------
 
@@ -37,7 +37,7 @@ RAYITAS_PROYECTO/
 
 ## 📦 ¿Qué incluye el proyecto?
 
-🧾 Páginas HTML estructuradas semánticamente
+-🧾 Páginas HTML estructuradas semánticamente
 💠 Uso de clases Bootstrap para columnas, cards, navbar y footer
 📐 Diseño adaptable con `@media queries` para pantallas móviles y de escritorio
 🧲 Distribución visual con `display: flex` y `grid-template-columns`
