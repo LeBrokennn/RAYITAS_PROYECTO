@@ -37,11 +37,11 @@ RAYITAS_PROYECTO/
 
 ## 📦 ¿Qué incluye el proyecto?
 
-- 🧾 Páginas HTML estructuradas semánticamente
-- 💠 Uso de clases Bootstrap para columnas, cards, navbar y footer
-- 📐 Diseño adaptable con `@media queries` para pantallas móviles y de escritorio
-- 🧲 Distribución visual con `display: flex` y `grid-template-columns`
-- 🌐 Estilo visual con imágenes de fondo, íconos y tipografías atractivas
+🧾 Páginas HTML estructuradas semánticamente
+💠 Uso de clases Bootstrap para columnas, cards, navbar y footer
+📐 Diseño adaptable con `@media queries` para pantallas móviles y de escritorio
+🧲 Distribución visual con `display: flex` y `grid-template-columns`
+🌐 Estilo visual con imágenes de fondo, íconos y tipografías atractivas
 
 ------------------------
 
