@@ -1,16 +1,70 @@
-#Esta prueba es el proyecto final donde podemos integrar todas las herramientas adquiridas dentro del curso. Creando una pagina web firme con un Layaout coherente con las dimensiones de la pagina web.
+# 🎨 RAYITAS_PROYECTO
 
-##Objetivo lograr crear una pagina donde se aplique ANIMACION CON CSS en una galeria.
+- Proyecto de diseño web responsivo orientado a la práctica de maquetación con HTML y CSS, integrando herramientas modernas como **Bootstrap**, **Flexbox**, **Grid** y **Media Queries**. Ideal para reforzar la construcción de sitios adaptables y estructurados profesionalmente.
 
-##Tecnologias utizadas
+-----------------------
 
-- HTML 5
-- CSS 3
-- FLEX
-- GRID
-- BOOTSTRAP
-- MEDIA QUERIES
-- ANIMACION CON CSS
-  
-##Aprendizaje, se aplican varias herramientas para poder lograr un layout mas completo y mas detallado. Donde se pueden acortar procesos de edicion con herramientas nuevas integradas y tambien mejorar la calidad de visualizacion al momento de estar en distintos dispositivos.
-Se emplea con CSS animacion para poder entregar mas vida a la pagina web.
+## 🧰 Tecnologías y herramientas utilizadas
+
+| Herramienta | Uso |
+|------------|------|
+| 🖥️ HTML5 | Estructura del contenido |
+| 🎨 CSS3 | Estilos visuales personalizados |
+| 🧩 Bootstrap 5 | Componentes predefinidos y sistema grid |
+| 📐 Flexbox | Distribución y alineación de elementos |
+| 🧱 CSS Grid | Organización en grillas complejas |
+| 📱 Media Queries | Diseño adaptable a distintos dispositivos |
+
+------------------------
+
+## 🗂️ Estructura del Proyecto
+
+'''
+RAYITAS_PROYECTO/
+├── index.html
+├── about.html
+├── contacto.html
+├── assets/
+│ ├── css/
+│ │ └── style.css
+│ ├── img/
+│ │ └── fondo.jpg
+│ └── bootstrap/
+│ └── bootstrap.min.css
+└── README.md
+'''
+-----------------------
+
+## 📦 ¿Qué incluye el proyecto?
+
+- 🧾 Páginas HTML estructuradas semánticamente
+- 💠 Uso de clases Bootstrap para columnas, cards, navbar y footer
+- 📐 Diseño adaptable con `@media queries` para pantallas móviles y de escritorio
+- 🧲 Distribución visual con `display: flex` y `grid-template-columns`
+- 🌐 Estilo visual con imágenes de fondo, íconos y tipografías atractivas
+
+------------------------
+
+## 🧠 Componentes destacados
+
+| Componente | Descripción |
+|------------|-------------|
+| 📱 Navbar responsiva | Barra de navegación adaptativa con Bootstrap |
+| 🧱 Secciones con Grid | Distribución de contenido en filas y columnas |
+| 🧩 Cards informativas | Elementos visuales reutilizables |
+| 🦾 Efectos de hover | Transiciones y animaciones CSS |
+| 📲 Media Queries | Adaptación de layout a distintas resoluciones |
+
+------------------------
+
+## 🤓☝🏻Objetivo del Proyecto
+
+Este proyecto fue desarrollado como práctica de maquetación y diseño responsivo, enfocado en reforzar conceptos claves de front-end puro. Es una base sólida para futuros proyectos más complejos o integración con JavaScript.
+
+------------------------
+
+## 🚀 ¿Cómo usar?
+1. Clona o descarga este repositorio.
+2. Abre 👉 [https://lebrokennn.github.io/RAYITAS_PROYECTO/]
+3. Haz clic en los enlaces para explorar cada ejercicio.
+
